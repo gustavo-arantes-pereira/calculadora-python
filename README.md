@@ -93,4 +93,3 @@ Nesta função é exibida a mensagem de inicialização da calculadora.
 <br>
 <br>
 # FIM xD
-<br>
