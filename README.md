@@ -57,7 +57,7 @@ Nesta função é exibida a mensagem de inicialização da calculadora.
 1.3.2 - Função "leia_numero(parâmetro)":
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/50367720/112878132-f33c1b80-909d-11eb-993a-d5bfeffd80de.png)
+<img src="https://user-images.githubusercontent.com/50367720/112878132-f33c1b80-909d-11eb-993a-d5bfeffd80de.png"/>
 <br>
 <br>
 - Inicia com um loopping infinito assim como na função "leia_operacao()".
@@ -75,7 +75,7 @@ Nesta função é exibida a mensagem de inicialização da calculadora.
 1.4 - Após a validação dos valores de entrada, agora é executado a função seleciona_operacao(p1, p2, p3) que recebe 3 parâmetros e é a responsável pelo retorno do resultado da operação selecionada:
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/50367720/112903706-44f49e00-90be-11eb-838a-90c130106970.png)
+<img src="https://user-images.githubusercontent.com/50367720/112903706-44f49e00-90be-11eb-838a-90c130106970.png"/>
 <br>
 <br>
 <br>
@@ -85,7 +85,7 @@ Nesta função é exibida a mensagem de inicialização da calculadora.
 - Essas funções são bem simples e similares diferenciando-se apenas pelo operador matemático e são elas "somar(p1, p2)", "subtrair(p1, p2)", "multiplicar(p1, p2)" e "dividir(p1, p2)", recebendo 2 parâmetros cada sendo respectivamente "p1" o "primeiro_numero" e "p2" o "segundo_numero":
 <br>
 <br>
-![image](https://user-images.githubusercontent.com/50367720/112904807-e29c9d00-90bf-11eb-8180-2346d5ce069a.png)
+<img src="https://user-images.githubusercontent.com/50367720/112904807-e29c9d00-90bf-11eb-8180-2346d5ce069a.png">
 <br>
 <br>
 - E por fim imprime o resultado com formatação através de uma interpolação de String.
