@@ -60,15 +60,15 @@ Nesta função é exibida a mensagem de inicialização da calculadora.
 <img src="https://user-images.githubusercontent.com/50367720/112878132-f33c1b80-909d-11eb-993a-d5bfeffd80de.png"/>
 <br>
 <br>
-- Inicia com um loopping infinito assim como na função "leia_operacao()".
--- Dentro dele é feita a primeira validação, que testa se (if) o número recebido como parâmetro da função é igual a 1.
---- Caso for igual, a variável "entrada" recebe o valor que o usuário digitou como sendo o primeiro número para o cálculo.
---- Caso for diferente de 1, a variável "entrada" recebe o valor que o usuário digitou como sendo o segundo número para o cálculo.
--- Em seguida é feito outra validação, tentando (try) converter o valor da variável "entrada" em um número decimal com a função float().
---- Caso der certo, a conversão é atribuida a variável "entrada" e para o looping.
--- Caso não der certo a conversão (except).
---- Imprime um erro.
-- Retorna o valor digitado pelo usuário.
+- Inicia com um loopping infinito assim como na função "leia_operacao()".<br>
+-- Dentro dele é feita a primeira validação, que testa se (if) o número recebido como parâmetro da função é igual a 1.<br>
+--- Caso for igual, a variável "entrada" recebe o valor que o usuário digitou como sendo o primeiro número para o cálculo.<br>
+--- Caso for diferente de 1, a variável "entrada" recebe o valor que o usuário digitou como sendo o segundo número para o cálculo.<br>
+-- Em seguida é feito outra validação, tentando (try) converter o valor da variável "entrada" em um número decimal com a função float().<br>
+--- Caso der certo, a conversão é atribuida a variável "entrada" e para o looping.<br>
+-- Caso não der certo a conversão (except).<br>
+--- Imprime um erro.<br>
+- Retorna o valor digitado pelo usuário.<br>
 <br>
 <br>
 <br>
